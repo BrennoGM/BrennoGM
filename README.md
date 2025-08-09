@@ -1,4 +1,4 @@
-# ♞ Brenno Gonçalves 
+# ♚ Brenno Gonçalves 
 
 **`Desenvolvedor FullStack`**
 
@@ -6,7 +6,7 @@ Com mais de quatro anos de experiência como Analista de Sistemas Júnior, tenho
 
 ---
 
-### ♜ Linguagens e Tecnologias
+### ♞ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -87,7 +87,7 @@ Com mais de quatro anos de experiência como Analista de Sistemas Júnior, tenho
 <br/>
 <br/>
 
-### ♟ Estatísticas
+### ♜ Estatísticas
 
 <p>
   <img 
