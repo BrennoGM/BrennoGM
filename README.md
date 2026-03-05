@@ -1,8 +1,8 @@
-# ♚ Brenno Gonçalves 
+# ♔ Brenno Gonçalves 
 
 **`Desenvolvedor FullStack`**
 
-Com mais de quatro anos de experiência como Analista de Sistemas Júnior, tenho atuado na criação de soluções de software completas, com foco no backend (utilizando .NET e Java) e no frontend (com React). Atualmente, estou aprimorando minhas habilidades cursando Análise e Desenvolvimento de Sistemas na Unisanta. Encaro a tecnologia como uma ferramenta para solucionar problemas complexos, buscando sempre desenvolver soluções inovadoras e eficientes.
+Com mais de cinco anos de experiência como Analista de Sistemas Júnior, tenho atuado na criação de soluções de software completas, com foco no backend (utilizando .NET e Java) e no frontend (com React). Atualmente, estou aprimorando minhas habilidades cursando Análise e Desenvolvimento de Sistemas na Unisanta. Encaro a tecnologia como uma ferramenta para solucionar problemas complexos, buscando sempre desenvolver soluções inovadoras e eficientes.
 
 ---
 
